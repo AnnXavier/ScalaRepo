@@ -1,0 +1,2 @@
+# ScalaRepo
+TryingScalaCode
